@@ -2,22 +2,22 @@
 <testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-18T17:28:54 IST" name="Suite" finished-at="2023-08-18T17:28:54 IST" duration-ms="36">
+  <suite started-at="2023-08-18T17:41:36 IST" name="Suite" finished-at="2023-08-18T17:41:36 IST" duration-ms="37">
     <groups>
       <group name="smoke">
         <method signature="Createcust.createcust()[pri:0, instance:com.banking.obsmaven.Createcust@3ce1e309]" name="createcust" class="com.banking.obsmaven.Createcust"/>
         <method signature="Modifycust.modifycust()[pri:0, instance:com.banking.obsmaven.Modifycust@123ef382]" name="modifycust" class="com.banking.obsmaven.Modifycust"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2023-08-18T17:28:54 IST" name="Test" finished-at="2023-08-18T17:28:54 IST" duration-ms="36">
+    <test started-at="2023-08-18T17:41:36 IST" name="Test" finished-at="2023-08-18T17:41:36 IST" duration-ms="37">
       <class name="com.banking.obsmaven.Modifycust">
-        <test-method signature="modifycust()[pri:0, instance:com.banking.obsmaven.Modifycust@123ef382]" started-at="2023-08-18T17:28:54 IST" name="modifycust" finished-at="2023-08-18T17:28:54 IST" duration-ms="7" status="PASS">
+        <test-method signature="modifycust()[pri:0, instance:com.banking.obsmaven.Modifycust@123ef382]" started-at="2023-08-18T17:41:36 IST" name="modifycust" finished-at="2023-08-18T17:41:36 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifycust -->
       </class> <!-- com.banking.obsmaven.Modifycust -->
       <class name="com.banking.obsmaven.Createcust">
-        <test-method signature="createcust()[pri:0, instance:com.banking.obsmaven.Createcust@3ce1e309]" started-at="2023-08-18T17:28:54 IST" name="createcust" finished-at="2023-08-18T17:28:54 IST" duration-ms="1" status="PASS">
+        <test-method signature="createcust()[pri:0, instance:com.banking.obsmaven.Createcust@3ce1e309]" started-at="2023-08-18T17:41:36 IST" name="createcust" finished-at="2023-08-18T17:41:36 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createcust -->

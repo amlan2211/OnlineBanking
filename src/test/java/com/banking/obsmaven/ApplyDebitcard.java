@@ -1,15 +1,29 @@
 package com.banking.obsmaven;
 
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class ApplyDebitcard {
 	
 	
 	@Test
-	public void applyDebitcard() {
+	public void applyDebitcard() 
+	{
+	@DataProvider(name="login")
+	{
 		
 		
-		System.out.println("---debitcard applied---");
+		
+	}
+		
+    @Test(dataProvider = "login")
+    {
+    	
+    	
+    	
+    	
+    }
+	
 	}
 
 }

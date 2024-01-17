@@ -46,10 +46,8 @@ public class Test_2
         for (Map.Entry<String, String> me : 
              hm.entrySet()) 
         { 
-  
-          
-            System.out.print(me.getKey() + ":"); 
-//            System.out.println(me.getValue()); 
+       System.out.print(me.getKey() + ":"); 
+
 	}
 	}
 }
